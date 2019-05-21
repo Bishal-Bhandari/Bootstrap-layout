@@ -1,0 +1,25 @@
+.icon{
+
+    height: 30px;
+    width: 30px;
+    background-size: 96px !important;
+    background: url(img/icon-pos.png);
+    background-position-y: 0px;
+ 
+ 
+ }
+ .setting {
+    background-position-x: 63px;
+ }
+ 
+ .edit {
+    background-position-x: 0px;
+ }
+ 
+ .new {
+    background-position-x: -66px;
+ }
+ 
+ .float-left{
+    float: left;
+ }
