@@ -26,4 +26,7 @@
  .grad{
     background-image: linear-gradient(#fffdfd, #dcdcd8);
  }
- 
+ .font{
+   font-family: 'Arsenal', sans-serif;
+   font-size:70px;
+ }
